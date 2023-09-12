@@ -1,4 +1,4 @@
-# Hi, I'm Yury! 👋 👨‍💻
+# Hi, I'm Yuriy! 👋 👨‍💻
 
 I'm a developer from Ukraine 🇺🇦 with a focus on creating awesome web applications.
 
@@ -14,8 +14,8 @@ I'm a developer from Ukraine 🇺🇦 with a focus on creating awesome web appli
 - 👀 My trusted allies in different ecosystem:
   - in Vue it's Axios, i18n, Vuex & Pinia, Vitest
   - in Angular it's RxJS, NgRx, Karma / Jest, Localize / Transloco
-- 🌐 My goal is to create high-quality and innovative products capable of solving complex problems.
-- 💼 Currently, I'm working on significant projects and serving as a lead front-end developer.
+- 💫 My goal is to create high-quality and innovative products capable of solving complex problems.
+- 💼 Currently, I'm working on various projects and serving as a lead front-end developer on one of the projects.
 
 ## Contact
 - 🤝 For business inquiries and collaboration, please feel free to reach out to me through the contact information provided in my profile.
