@@ -25,8 +25,3 @@ I'm a developer from Ukraine 🇺🇦 with a focus on creating awesome web appli
 
 ## Let's Change the World
 - 🌍 With my knowledge and experience, together we can make a difference!
-
-<!---
-HiddenUndefined/HiddenUndefined is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
