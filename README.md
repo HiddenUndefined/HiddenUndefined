@@ -1,4 +1,4 @@
-# Hi, I'm Yuriy! 👋 👨‍💻
+# Hola! 👋 👨‍💻
 
 I'm a developer from Ukraine 🇺🇦 with a focus on creating awesome web applications.
 
@@ -10,10 +10,11 @@ I'm a developer from Ukraine 🇺🇦 with a focus on creating awesome web appli
 - 👨‍💻 Senior front-end developer
 - 🚀 Specializing in developing cool web applications
 - 🛠️ Proficient in JavaScript & TypeScript
-- 🖥️ Technologies I work with: Vue, Nuxt and Angular
+- 🖥️ Technologies I work with: Angular like main framework and Vue|Nuxt and React
 - 👀 My trusted allies in different ecosystem:
-  - in Vue it's Axios, i18n, Vuex & Pinia, Vitest
   - in Angular it's RxJS, NgRx, Karma / Jest, Localize / Transloco
+  - in Vue it's Axios, i18n, Vuex & Pinia, Vitest
+  - in React it's Axios or Fetch, i18next, Redux
 - 💫 My goal is to create high-quality and innovative products capable of solving complex problems.
 - 💼 Currently, I'm working on various projects and serving as a lead front-end developer on one of the projects.
 
